@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash!</h1>
 <h3 align="center">I'm passionate about my work.</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fportswigger.net%2Fdaily-swig%2Fshhgit-hits-the-fan-watch-users-leak-secrets-in-real-time&psig=AOvVaw0XZ5dcQcnES2C10wwhYykV&ust=1612548436312000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjispnp0O4CFQAAAAAdAAAAABAv" alt="github">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-singh7&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-singh7" /> </p>
 
 - 🔭 I’m currently working on *College project*
